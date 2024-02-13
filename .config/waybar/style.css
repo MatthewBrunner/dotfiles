@@ -13,7 +13,7 @@
     transition-property: background-color;
     transition-duration: .5s;
     border-radius: 10px;
-    color: @color10;
+    color: @color5;
 }
 
 window#waybar.hidden {
@@ -23,7 +23,7 @@ window#waybar.hidden {
 tooltip {
     background: #1e1e2e;
     border-radius: 10px;
-    border: 2px solid @color10;
+    border: 2px solid @color5;
 }
 
 /*
@@ -63,7 +63,7 @@ button:hover {
 }
 
 #workspaces button.active {
-    background-color: @color10;
+    background-color: @color5;
     color: #000000;
     border-radius: 10px;
 }
@@ -113,7 +113,7 @@ button:hover {
 }
 
 #clock {
-    background-color: @color10;
+    background-color: @color5;
     color: #000000;
     border-radius: 10px;
 }
@@ -150,18 +150,18 @@ label:focus {
 }
 
 #cpu {
-    background-color: @color10;
+    background-color: @color5;
     color: #000000;
     border-radius: 10px;
 }
 
 #memory {
-    background-color: @color10;
+    background-color: @color5;
     color: #000000;
     border-radius: 10px;}
 
 #network {
-    background-color: @color10;
+    background-color: @color5;
     color: #000000;
     border-radius: 10px;
 }
@@ -173,7 +173,7 @@ label:focus {
 }
 
 #pulseaudio {
-    background-color: @color10;
+    background-color: @color5;
     color: #000000;
     border-radius: 10px;
 }
@@ -209,7 +209,7 @@ label:focus {
 }
 
 #temperature {
-    background-color: @color10;
+    background-color: @color5;
     color: #000000;
     border-radius: 10px;
 }
@@ -267,7 +267,7 @@ label:focus {
 }
 
 #keyboard-state {
-    background: @color10;
+    background: @color5;
     color: #000000;
     padding: 0 0px;
     margin: 0 5px;
