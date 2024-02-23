@@ -17,6 +17,7 @@ export PS1="[%~$]"
 alias homebackup='rsync -rtvzP ~/ /mnt/usb-drive/home_backup'
 alias l="ls --color=auto -a"
 alias v='nvim'
+export EDITOR=nvim
 # what to add to path
 NPATH="$HOME/.local/bin"
 
