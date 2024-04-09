@@ -5,3 +5,4 @@ no_actions=true
 key_up=Control_L-k
 key_down=Control_L-j
 location=centerolor=.config/wofi/colors
+
