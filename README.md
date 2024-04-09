@@ -7,3 +7,7 @@
 - waybar
 - stow 
 
+## Installation
+
+### Arch install
+`sudo pacman -S hyprland wezterm wofi waybar stow` 
