@@ -1,9 +1,9 @@
-# My Linux Hyprland Environment Dot files 
+# My Linux Hyprland Environment Config 
 
 ## Dependencies & tools used
-1. hyprland
-2. wezterm
-3. wofi
-4. waybar
-5. stow 
+- hyprland
+- wezterm
+- wofi
+- waybar
+- stow 
 
