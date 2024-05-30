@@ -11,8 +11,7 @@
 
 ### Arch install
 
-`sudo pacman -S hyprland wezterm wofi waybar stow zsh` 
-
-`cd dotfiles`
-
-`stow .`
+1. `sudo pacman -S hyprland wezterm wofi waybar stow zsh` 
+2. `git clone https://github.com/MatthewBrunner/dotfiles`
+3. `cd dotfiles`
+4. `stow .`
