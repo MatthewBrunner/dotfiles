@@ -113,7 +113,7 @@ button:hover {
 }
 
 #clock {
-    background-color: @color5;
+    background-color: #a9b665;
     color: #000000;
     border-radius: 10px;
 }
