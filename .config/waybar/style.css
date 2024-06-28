@@ -13,7 +13,7 @@
     transition-property: background-color;
     transition-duration: .5s;
     border-radius: 10px;
-    color: @color5;
+    color: #a9b665;
 }
 
 window#waybar.hidden {
@@ -23,7 +23,7 @@ window#waybar.hidden {
 tooltip {
     background: #1e1e2e;
     border-radius: 10px;
-    border: 2px solid @color5;
+    border: 2px solid #a9b665;
 }
 
 /*
@@ -63,7 +63,7 @@ button:hover {
 }
 
 #workspaces button.active {
-    background-color: @color5;
+    background-color: #a9b665;
     color: #000000;
     border-radius: 10px;
 }
@@ -150,18 +150,18 @@ label:focus {
 }
 
 #cpu {
-    background-color: @color5;
+    background-color: #a9b665;
     color: #000000;
     border-radius: 10px;
 }
 
 #memory {
-    background-color: @color5;
+    background-color: #a9b665;
     color: #000000;
     border-radius: 10px;}
 
 #network {
-    background-color: @color5;
+    background-color: #a9b665;
     color: #000000;
     border-radius: 10px;
 }
@@ -173,7 +173,7 @@ label:focus {
 }
 
 #pulseaudio {
-    background-color: @color5;
+    background-color: #a9b665;
     color: #000000;
     border-radius: 10px;
 }
@@ -197,6 +197,7 @@ label:focus {
     background-color: #66cc99;
     color: #2a5c45;
     min-width: 100px;
+    border-radius: 10px;
 }
 
 #custom-media.custom-spotify {
@@ -209,7 +210,7 @@ label:focus {
 }
 
 #temperature {
-    background-color: @color5;
+    background-color: #a9b665;
     color: #000000;
     border-radius: 10px;
 }
@@ -267,7 +268,7 @@ label:focus {
 }
 
 #keyboard-state {
-    background: @color5;
+    background: #a9b665;
     color: #000000;
     padding: 0 0px;
     margin: 0 5px;
